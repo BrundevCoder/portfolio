@@ -4,69 +4,86 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
-  <title>Document</title>
+  <!-- FONT AWESOME -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <title>BRUNDEVDRUMS | Portfolio</title>
 </head>
 <body>
 
   <header class="header">
-    <div class="left-part">
-      Bruno
+
+    <div class="name">
+      <span>BRUNDEVDRUMS</span>
     </div>
-    <div class="right-part">
-      Menu
-    </div>
+
   </header>
 
-  <main>
-    <div class="first">
-      <h1>Who I Am?</h1>
-      <p>Hi! I'm a young website creator :) I love creating websites, and I also know how to code in Python!</p>
+  <main class="main">
+
+    <div class="hero">
+      <h1>Welcome, I'm Bruno.</h1>
+      <p>A young Front-End and Python programmer</p>
+      <a class="link-projects" href="#projects">find my projects</a>
     </div>
 
-    <div class="skills">
+    <div id="languages" class="languages-container">
+      <h2>My skills:</h2>
 
-      <h1>My Skills</h1>
-
-      <div class="grid">
+      <div class="grid-container">
 
         <div class="card">
-          <h2>Python</h2>
-          <p>🐍</p>
+          <i id="code-lang-icon" class="fa-brands fa-html5"></i>
+          <p class="lang-name">HTML</p>
         </div>
 
         <div class="card">
-          <h2>HTML</h2>
-          <p>🛠️</p>
+          <i id="code-lang-icon" class="fa-brands fa-css3-alt"></i>
+          <p class="lang-name">CSS</p>
         </div>
 
         <div class="card">
-          <h2>CSS</h2>
-          <p>🎨</p>
+          <i id="code-lang-icon" class="fa-brands fa-js"></i>
+          <p class="lang-name">JS</p>
         </div>
 
         <div class="card">
-          <h2>JS</h2>
-          <p>📃</p>
+          <i id="code-lang-icon" class="fa-brands fa-react"></i>
+          <p class="lang-name">REACT</p>
+        </div>
+
+        <div class="card">
+          <i id="code-lang-icon" class="fa-brands fa-python"></i>
+          <p class="lang-name">PY</p>
         </div>
 
       </div>
 
     </div>
 
-    <div class="projects">
+    <div id="projects" class="projects-container">
+      <h2>My Projects:</h2>
 
-      <h2>My Projects!</h2>
-
-      <div class="projects-grid">
+      <div class="project-cards-container">
 
         <div class="project-card">
-          <h3>Guess The number!</h3>
-          <a href="https://brundevcoder.github.io/guess-the-number-web/">Here</a>
+          <img class="project-card-img" src="images/egft.png" alt="">
+          <h3>Excuse Generator</h3>
+          <p>A game where you can generate excuses</p>
+          <a target="_blank" class="link-projects link" href="https://brundevcoder.github.io/excuse-teacher-generator/">Here</a>
         </div>
 
         <div class="project-card">
-          <h3>Touch Sound</h3>
-          <a href="https://brundevcoder.github.io/touch-music/">Here</a>
+          <img class="project-card-img" src="images/tua.png" alt="">
+          <h3>Tua Web</h3>
+          <p>🇵🇹 band web (not official)</p>
+          <a target="_blank" class="link-projects link" href="https://brundevcoder.github.io/">Here</a>
+        </div>
+
+        <div class="project-card">
+          <img class="project-card-img" src="images/gtng.png" alt="">
+          <h3>Guess The Number</h3>
+          <p>Try to guess the number!</p>
+          <a target="_blank" class="link-projects link" href="https://brundevcoder.github.io/">Here</a>
         </div>
 
       </div>
@@ -74,7 +91,6 @@
     </div>
 
   </main>
-  
-  <script src="script.js"></script>
+
 </body>
 </html>
