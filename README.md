@@ -20,13 +20,13 @@ Here are some more details about the design:
 In this project, I decided to create different animations, play with the shadows of some elements, and make them animated when hovered and clicked.
 
 hover animation on the button:
-https://github.com/user-attachments/assets/84ef8cc5-2d11-4944-b216-02d6e246a173
+[https://github.com/user-attachments/assets/84ef8cc5-2d11-4944-b216-02d6e246a173](https://github.com/user-attachments/assets/4dcf0f81-de6a-4288-b520-4feb9da60213)
 
 Hover animation on cards:
-https://github.com/user-attachments/assets/c0da175b-7b99-4f2e-93a4-06004f175630
+[https://github.com/user-attachments/assets/c0da175b-7b99-4f2e-93a4-06004f175630](https://github.com/user-attachments/assets/9102a238-6c61-42d9-a2c4-1a0af46a2a47)
 
 Hover animation on project cards:
-https://github.com/user-attachments/assets/9a8ff5f8-9718-43f6-bc64-3dfb8f32cda4
+[https://github.com/user-attachments/assets/9a8ff5f8-9718-43f6-bc64-3dfb8f32cda4](https://github.com/user-attachments/assets/ed3f5646-7661-4330-a16f-d076111d887c)
 
 and the click animations...
 
