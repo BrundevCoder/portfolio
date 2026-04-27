@@ -20,13 +20,19 @@ Here are some more details about the design:
 In this project, I decided to create different animations, play with the shadows of some elements, and make them animated when hovered and clicked.
 
 hover animation on the button:
-[https://github.com/user-attachments/assets/84ef8cc5-2d11-4944-b216-02d6e246a173](https://github.com/user-attachments/assets/4dcf0f81-de6a-4288-b520-4feb9da60213)
+<br/>
+<img width="194" height="102" alt="Gravação 2026-04-27 140249" src="https://github.com/user-attachments/assets/e7622acf-1ebd-4908-90e4-42f3f8f7210c" />
+<br/>
 
 Hover animation on cards:
-[https://github.com/user-attachments/assets/c0da175b-7b99-4f2e-93a4-06004f175630](https://github.com/user-attachments/assets/9102a238-6c61-42d9-a2c4-1a0af46a2a47)
+<br/>
+<img width="258" height="132" alt="Gravação 2026-04-27 140453" src="https://github.com/user-attachments/assets/b9fef944-9713-4dbd-8900-e1de9260cd0b" />
+<br/>
 
 Hover animation on project cards:
-[https://github.com/user-attachments/assets/9a8ff5f8-9718-43f6-bc64-3dfb8f32cda4](https://github.com/user-attachments/assets/ed3f5646-7661-4330-a16f-d076111d887c)
+<br/>
+<img width="536" height="410" alt="Gravação 2026-04-27 140542" src="https://github.com/user-attachments/assets/79607577-3fa9-4f82-a266-f6439069f1c2" />
+<br/>
 
 and the click animations...
 
