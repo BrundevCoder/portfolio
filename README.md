@@ -46,22 +46,23 @@ and the click animations...
 - Responsive layout for different screens.
 
 
-## Here's how the site has changed over time:
-image of V1:
+# Here's how the site has changed over time:
+## image of V1:
 <img width="1343" height="541" alt="Captura de ecrã 2026-04-15 230843" src="https://github.com/user-attachments/assets/1206182e-62bc-415f-aff7-698748f29a35" />
 <br/>
 <img width="1365" height="628" alt="Captura de ecrã 2026-04-15 222706" src="https://github.com/user-attachments/assets/8a2c7499-033e-4fb9-83b1-fb3118bb3bf1" />
 
-Images from V2 (most recent):
+## Images from V2 (most recent):
 <img width="1348" height="629" alt="image" src="https://github.com/user-attachments/assets/0ab25665-068f-4754-9051-30f4b1e4881b" />
 <br/>
 <img width="1350" height="257" alt="image" src="https://github.com/user-attachments/assets/7dffc158-9aa5-4eec-82ac-bd61a629533f" />
-(Images from part of my projects):
+### (Images from part of my projects):
 <img width="1350" height="767" alt="image" src="https://github.com/user-attachments/assets/33cd4083-0ff8-4c59-80d1-03548ff1bb0d" />
 <br/>
 <img width="1350" height="767" alt="image" src="https://github.com/user-attachments/assets/4433b724-1c0a-4198-939d-d89fe5f18007" />
 <br/>
 <img width="1349" height="767" alt="image" src="https://github.com/user-attachments/assets/8432ed19-eea5-405a-ad51-2c4610241db7" />
+<br/>
 
 
 Everything was done by me, no AI assistance was used here. And I hope you like it!
