@@ -67,4 +67,5 @@ and the click animations...
 <br/>
 
 Feel free to try out my other projects as well!
+<br/>
 Everything was done by me, no AI assistance was used here. And I hope you like it!
